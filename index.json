@@ -157,5 +157,12 @@
         "fileName": "manhuaren.js",
         "key": "manhuaren",
         "version": "1.0.0"
+    },
+    {
+        "name": "风车漫画",
+        "fileName": "fengchemh.js",
+        "key": "fengchemh",
+        "version": "1.0.0",
+        "description": "中文漫画源，支持搜索、分类浏览和章节阅读"
     }
 ]
